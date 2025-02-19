@@ -1,6 +1,6 @@
 [submodule "ggml"]
 	path = ggml
-	url = https://github.com/ggerganov/ggml
+	url = https://github.com/ggml-org/ggml
 [submodule "examples/third-party/imgui/imgui"]
 	path = examples/third-party/imgui/imgui
 	url = https://github.com/ocornut/imgui
